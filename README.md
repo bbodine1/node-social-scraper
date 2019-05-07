@@ -1,4 +1,4 @@
-# Social Follower Count Scrapper
+# Social Follower Count Scraper
 
 This is a node project that will scrape the follower count from Instagram and Twitter for specified accounts.
 
